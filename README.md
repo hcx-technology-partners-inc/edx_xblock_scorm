@@ -13,7 +13,7 @@ Installation
 
 Install package
 
-    pip install -e git+https://github.com/raccoongang/edx_xblock_scorm.git#egg=edx_xblock_scorm
+    pip install -e git+https://github.com/hcx-technology-partners-inc/edx_xblock_scorm.git#egg=edx_xblock_scorm
 
 Note: for OpenEdx releases prior ginkgo add required variables to CMS configuration ```<edx-platform-path>/cms/envs/aws.py```:
 
